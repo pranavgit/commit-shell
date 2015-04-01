@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git add .
+git add -A
 
 echo -n "Enter commit message > "
 read text_commit
